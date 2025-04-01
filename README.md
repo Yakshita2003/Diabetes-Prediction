@@ -15,6 +15,8 @@ Python
 
 Streamlit (for UI)
 
+Machine Learning(Decision Tree Algorithm to train data)
+
 Pandas (for data processing)
 
 Pickle (to load the ML model)
